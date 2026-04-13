@@ -1,5 +1,8 @@
-🫀 Heart Disease Prediction System
+---
 
+## 🫀 Heart Disease Prediction System
+
+---
 A Machine Learning web application that predicts the risk of heart disease based on patient health parameters. The application is built using Python, Streamlit, and Logistic Regression, allowing users to enter medical details and receive an instant prediction about the likelihood of heart disease.
 
 🌐 Live Demo
