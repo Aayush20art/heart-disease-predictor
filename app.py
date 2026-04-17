@@ -109,4 +109,4 @@ if st.button("🔍 Predict Heart Disease Risk"):
         st.markdown("### ❤️ Heart condition looks normal.")
 
 st.divider()
-st.caption("Developed by Aayush Sharma | Data Science Project")
+st.caption("Developed by Aayush Sharma | Data Science")
