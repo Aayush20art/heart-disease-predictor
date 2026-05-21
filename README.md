@@ -7,7 +7,7 @@ A Machine learning Web Application that predicts the risk of heart disease based
 
 🌐 Live Demo
 
-try the application here:
+Try the application here:
 
 🔗 https://heart-disease-predictor-jpmgpgbuptepbw4z2yvkr8.streamlit.app/
 
