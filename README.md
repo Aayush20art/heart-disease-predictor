@@ -25,7 +25,7 @@ Machine learning model deployed for predictions
 Visual feedback with progress indicators
 📊 Input Parameters
 
-The model predicts heart disease risk based on the following features:
+The model predicts heart rate risk based on the following features:
 
 Age
 Sex
